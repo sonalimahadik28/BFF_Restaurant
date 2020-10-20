@@ -1,0 +1,119 @@
+body {
+    background-color: #B22222;
+}
+header {
+    background-color: #e0e0e0; 
+    margin-bottom: 8px;
+}
+.img2, .size {
+    display: inline-block;
+}
+.top {
+    display: inline-block;
+    font-family: Agency FB;
+    font-size: x-large;
+    padding-right: 350px;
+}
+nav {
+    background-color: #808080;
+    color: silver;
+    text-align: center;
+    margin-bottom: 8px;
+}
+.nav {
+    padding-right: 30px;
+    display: inline-block;
+    padding-left: 10px;
+    font-family: Agency FB;
+    font-size: xx-large;
+}
+.top-right {
+    display: inline-block;
+    font-family: Agency FB;
+    padding-right: 20px;
+    font-size: x-large;
+}
+article {
+    text-align: center;
+}
+h2 {
+    background-color: #171717;
+    text-align: center;
+    font-family: Agency FB;
+    color: ghostwhite;
+    padding: 6px;
+    font-size: xx-large;
+}
+.about {
+    background-color: #; 
+    padding: 8px;
+    margin-top: 1px;
+    color: whitesmoke;
+    font-family: Agency FB;
+}
+article {
+    background-color: #;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+.food, .beverages {
+    display: inline-block;
+}
+.slider {
+    background-color: #800000;
+    text-align: center;
+}
+.content{
+    height: 450px;
+    width: 950px;
+    overflow: hidden;
+    box-shadow: 1px 1px 15px rgba(0,0,0,0.4);
+    justify-content: center;
+    display: flex;
+    margin-left: 300px;
+    margin-bottom: 2px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+  .content .images{
+    height: 100%;
+    width: 100%;
+  }
+  .images img{
+    height: 100%;
+    width: 100%;
+  }
+footer {
+    font-family: Agency FB;
+    background-color: #e0e0e0;
+}
+.footer {
+    text-align: center;
+}
+.data, .mapouter, .links {
+display: inline-block;
+}
+.data, .links, .map {
+    font-size: large;
+}
+.links {
+    padding-left: 100px;
+}
+.mapouter{
+    position:relative;
+    text-align:left;
+    height:211px;
+    width:279px;
+    padding-left: 50px;
+    padding-right: 100px;
+}
+.gmap_canvas {
+    overflow:hidden;
+    background:none!important;
+    height:211px;
+    width:279px;
+}
+.para {
+    text-align: center;
+    padding-bottom: 2px;
+}
